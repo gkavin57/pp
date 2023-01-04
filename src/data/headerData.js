@@ -3,7 +3,8 @@ export const headerData = {
   title: "Hello! I am",
   desciption:
     "Hello! I am KAVIN, a professional and passionate programmer in my daily life. A quick learner with a self-learning attitude. I love to learn and explore new technologies and am Passionate about Problem Solving. ",
-  image: "https://i.ibb.co/hWthWVQ/profile-Img.png",
+  image: "https://i.ibb.co/C7ZrJ6F/IMG-20210408-WA0011-01.jpg",
 
-  resumePdf: "https://google.com",
+  resumePdf:
+    "https://drive.google.com/file/d/1jskFEC8j7Gz93QllCFWImRQq2PwuD-W9/view?usp=share_link",
 };
