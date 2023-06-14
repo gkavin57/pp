@@ -10,12 +10,12 @@ import two from "../assets/svg/projects/two.svg";
 export const projectsData = [
   {
     id: 1,
-    projectName: "Notes Zipper",
+    projectName: "Notes Keeper",
     projectDesc:
-      "In this Notes Zipper application user can write a own memories and day by day activities. Personal dairy CRED Application.",
+      "In this Notes Keeper application user can write a own memories and day by day activities. Personal dairy CRED Application.",
     tags: ["React", "Nodejs", "Expressjs", "MongoDB"],
-    code: "https://github.com/gkavin57/NOTES_MERN_FE",
-    demo: "https://rad-pie-be34ca.netlify.app/",
+    code: "https://github.com/gkavin57/NOTE_MERN_FE",
+    demo: "https://elegant-dodol-d2107f.netlify.app/",
     image: one,
   },
   {
